@@ -1,26 +1,34 @@
-**Theatre of War**
+# 🎭 Theatre of War
 
-A virtual simulation environment designed to mimic real-world attack scenarios. This platform allows users to train, test, and evaluate agents based on Standard Operating Procedures (SOPs) in a safe, cost-effective, and fully customizable environment.
+A **virtual simulation environment** designed to mimic real-world attack scenarios.  
+This platform allows users to train, test, and evaluate agents based on **Standard Operating Procedures (SOPs)** in a **safe, cost-effective**, and fully customizable environment.
 
-🌟 Key Features
+---
 
-Entity Types: Security Forces, Common Public, Attackers
+## 🌟 Key Features
 
-Modular & Adaptive: Customizable environments, scenarios, and threat levels
+- **👥 Entity Types:** Security Forces, Common Public, Attackers  
+- **🛠️ Modular & Adaptive:** Customizable environments, scenarios, and threat levels  
+- **🎬 Scenario Simulation:** Supports multiple, repeatable training scenarios  
+- **🛡️ Safe & Cost-Efficient:** No physical damage; reduces expenses compared to real-world drills  
+- **🤖 Dynamic Interaction:** Agents learn complex behaviors in a realistic virtual world  
 
-Scenario Simulation: Supports multiple, repeatable training scenarios
+---
 
-Safe & Cost-Efficient: No physical damage; reduces expenses compared to real-world drills
+## 🎯 Advantages
 
-Dynamic Interaction: Agents learn complex behaviors in a realistic virtual world
+| Advantage | Description |
+|-----------|-------------|
+| **⚡ Adaptive Scene** | Environment dynamically adjusts for different situations |
+| **📚 Multiple Scenarios** | Train agents across various scenarios and threat levels |
+| **🛡️ No Physical Damage** | Safe, risk-free training for personnel and property |
+| **💰 Cost Efficient** | Eliminates the need for expensive real-world exercises |
 
-🎯 Advantages
-Advantage	Description
-Adaptive Scene	Environment dynamically adjusts for different situations
-Multiple Scenarios	Train agents across various scenarios and threat levels
-No Physical Damage	Safe, risk-free training for personnel and property
-Cost Efficient	Eliminates the need for expensive real-world exercises
-🖼 Screenshots
+---
+
+## 🖼 Screenshots
+
+
 <img width="574" height="323" alt="image (1)" src="https://github.com/user-attachments/assets/680b6a1a-f3df-4378-bbf1-c02e43044bbe" />
 
 🎥 Training Video
