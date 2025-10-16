@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://03wn6bmhl5sx"]
+
+[ext_resource type="Script" path="res://main.gd" id="1_4sm3m"]
+[ext_resource type="Script" path="res://addons/godot_rl_agents/sync.gd" id="2_q7pye"]
+[ext_resource type="Script" path="res://components/map.gd" id="3_cnrkl"]
+
+[node name="main" type="Node3D"]
+process_mode = 3
+script = ExtResource("1_4sm3m")
+control_mode = 1
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.981627, 0.190809, 0, -0.190809, 0.981627, 0, 1000, 0)
+
+[node name="Sync" type="Node" parent="."]
+script = ExtResource("2_q7pye")
+
+[node name="map" type="Node3D" parent="."]
+script = ExtResource("3_cnrkl")

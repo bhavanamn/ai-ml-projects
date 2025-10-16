@@ -1,0 +1,42 @@
+[gd_scene load_steps=2 format=3 uid="uid://c5qk3wo66bv4c"]
+
+[sub_resource type="GDScript" id="GDScript_ys5av"]
+script/source = "extends Node3D
+
+@onready var speed = 2.0
+@onready var game = get_node(\"res:://components/human_test_movement.gd\")
+@onready var ai_controller = $AIController3D
+
+
+func _ready() -> void:
+	ai_controller.init(self)
+
+func game_over():
+	ai_controller.done = true
+	ai_controller.needs_reset = true
+
+func _physics_process(delta):
+	if ai_controller.needs_reset:
+		ai_controller.reset()
+		game.reset()
+		return
+
+	var movement : float
+	if ai_controller.heuristic == \"human\":
+		movement = Input.get_axis(\"rotate_anticlockwise\", \"rotate_clockwise\")
+	else:
+		movement = ai_controller.move_action
+	rotate_y(movement*delta*speed)
+
+func _on_area_3d_body_entered(body):
+	ai_controller.reward += 1.0
+	
+	
+"
+
+[node name="ArenaMain" type="Node3D"]
+script = SubResource("GDScript_ys5av")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.981627, 0.190809, 0, -0.190809, 0.981627, 0, -268, 0)
+shadow_enabled = true

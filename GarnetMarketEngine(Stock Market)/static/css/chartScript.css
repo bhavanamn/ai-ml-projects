@@ -1,0 +1,15 @@
+/* Add this CSS to your stylesheet or in a style tag within the HTML file */
+.flexed-right-content {
+    display: flex;
+    top: 6.5vh;
+    justify-content: center;
+    align-items: center;
+    height: 93.5vh;
+    z-index: 100;
+    /* Adjust the height as needed */
+}
+
+#chart-container {
+    height: 93vh;
+    left: 15vw
+}

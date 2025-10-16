@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://03wn6bmhl5sx"]
+
+[ext_resource type="Script" path="res://components/human_test_movement.gd" id="1_xj6p3"]
+
+[node name="HumanTestMovement" type="Node3D"]
+script = ExtResource("1_xj6p3")

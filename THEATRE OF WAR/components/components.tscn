@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bxkehtvtfet34"]
+
+[ext_resource type="Script" path="res://components/components_test.gd" id="1_ep38m"]
+
+[node name="components" type="Node3D"]
+script = ExtResource("1_ep38m")

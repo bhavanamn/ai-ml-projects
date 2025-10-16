@@ -1,0 +1,6 @@
+venv/
+src/models
+src/min_max_values.json
+src/__pycache__
+src/prediction.json
+Critical Notebooks/
