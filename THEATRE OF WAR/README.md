@@ -29,7 +29,8 @@ This platform allows users to train, test, and evaluate agents based on **Standa
 ## 🖼 Screenshots
 
 
-<img width="574" height="323" alt="image (1)" src="https://github.com/user-attachments/assets/680b6a1a-f3df-4378-bbf1-c02e43044bbe" />
+<img width="574" height="323" alt="image (1)" src="https://github.com/user-attachments/assets/<img width="1920" height="1128" alt="Screenshot 2025-05-04 165518" src="https://github.com/user-attachments/assets/0ae25fd3-7c60-43a6-b181-a1e2c7f81fe7" />
+680b6a1a-f3df-4378-bbf1-c02e43044bbe" />
 
 🎥 Training Video
 
