@@ -1,3 +1,16 @@
+**Objective of this project :**
+A virtual environment designed to simulate real-world attack scenarios
+Enables testing and training of agents based on Standard Operating Procedures (SOPs)
+Includes three types of entities: Security Forces, Common Public, and Attackers.
+Modular and customizable for different environments and threat levels.
+Advantages :
+Adaptive Scene
+Multiple Scenarios simulation
+No Physical Property Damage 
+Cost Efficient
+
+
+
 
 # Godot RL Agents
 
