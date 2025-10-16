@@ -1,29 +1,66 @@
-**Objective of this project :**
-A virtual environment designed to simulate real-world attack scenarios
-Enables testing and training of agents based on Standard Operating Procedures (SOPs)
-Includes three types of entities: Security Forces, Common Public, and Attackers.
-Modular and customizable for different environments and threat levels.
-Advantages :
-Adaptive Scene
-Multiple Scenarios simulation
-No Physical Property Damage 
-Cost Efficient
+BARC Theatre of War
+
+A virtual simulation environment designed to mimic real-world attack scenarios. This platform allows users to train, test, and evaluate agents based on Standard Operating Procedures (SOPs) in a safe, cost-effective, and fully customizable environment.
+
+🌟 Key Features
+
+Entity Types: Security Forces, Common Public, Attackers
+
+Modular & Adaptive: Customizable environments, scenarios, and threat levels
+
+Scenario Simulation: Supports multiple, repeatable training scenarios
+
+Safe & Cost-Efficient: No physical damage; reduces expenses compared to real-world drills
+
+Dynamic Interaction: Agents learn complex behaviors in a realistic virtual world
+
+🎯 Advantages
+Advantage	Description
+Adaptive Scene	Environment dynamically adjusts for different situations
+Multiple Scenarios	Train agents across various scenarios and threat levels
+No Physical Damage	Safe, risk-free training for personnel and property
+Cost Efficient	Eliminates the need for expensive real-world exercises
+🖼 Screenshots
+<img width="574" height="323" alt="image (1)" src="https://github.com/user-attachments/assets/680b6a1a-f3df-4378-bbf1-c02e43044bbe" />
+
+🎥 Training Video
 
 
 
+https://github.com/user-attachments/assets/8e465b5e-4b80-4c56-bc51-05a8be1bc700
 
-# Godot RL Agents
 
-This repository contains the Godot 4 asset / plugin for the Godot RL Agents library, you can find out more about the library on its Github page [here](https://github.com/edbeeching/godot_rl_agents).
+Demonstrates agent learning and scenario execution.
 
-The Godot RL Agents is a fully Open Source package that allows video game creators, AI researchers and hobbyists the opportunity to learn complex behaviors for their Non Player Characters or agents. 
-This libary provided this following functionaly:
-* An interface between games created in the [Godot Engine](https://godotengine.org/) and Machine Learning algorithms running in Python
-* Wrappers for three well known rl frameworks: StableBaselines3, Sample Factory and [Ray RLLib](https://docs.ray.io/en/latest/rllib-algorithms.html)
-* Support for memory-based agents, with LSTM or attention based interfaces
-* Support for 2D and 3D games
-* A suite of AI sensors to augment your agent's capacity to observe the game world
-* Godot and Godot RL Agents are completely free and open source under the very permissive MIT license. No strings attached, no royalties, nothing. 
+🤖 Godot RL Agents Integration
 
-You can find out more about Godot RL agents in our AAAI-2022 Workshop [paper](https://arxiv.org/abs/2112.03636).
+This project leverages the Godot RL Agents
+ library to enable intelligent agent behavior:
 
+Capabilities:
+
+Connects Godot 4 games with Python-based ML algorithms
+
+Supports RL frameworks: StableBaselines3, Sample Factory, Ray RLLib
+
+Memory-based agents with LSTM or attention-based interfaces
+
+Compatible with both 2D and 3D games
+
+Provides AI sensors for advanced environment observation
+
+Benefits:
+
+Train agents in SOP-based scenarios safely
+
+Learn complex behaviors in controlled simulations
+
+
+
+⚡ Use Cases
+
+Security training in airports, public spaces, or critical infrastructure
+
+Emergency evacuation planning and response
+
+AI research in multi-agent coordination and decision-making
