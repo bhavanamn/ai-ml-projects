@@ -15,21 +15,7 @@ This project automates the **flaw inspection process** by allowing users to:
 
 It provides engineers and researchers a fast, reliable, and non-destructive way to inspect surface defects and document results.
 
----
 
-## 🧠 Key Features
-
-| Feature | Description |
-|----------|-------------|
-| 🖼️ **Image Import & Preprocessing** | Load single or multiple images; resizing, blurring, and thresholding applied automatically. |
-| ⚙️ **Flaw Detection Pipeline** | Applies **Gaussian blur**, **thresholding**, and **peak detection** to locate and analyze surface flaws. |
-| 📊 **3D Visualization** | Generates **interactive 3D surface plots** showing flaw intensity and topology. |
-| 📈 **2D Depth Profiles** | Displays smoothed **depth vs. position graphs** for detailed analysis. |
-| 🔍 **Peak Analysis** | Detects flaw boundaries, computes average depths, and highlights affected areas. |
-| 📑 **Automated PDF Report Generation** | Exports a structured PDF with flaw summary tables and embedded graphs. |
-| 💾 **Auto Image Storage** | Saves all processed and resized images in the output directory. |
-
----
 
 ## 🧰 Technologies Used
 
