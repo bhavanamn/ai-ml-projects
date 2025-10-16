@@ -1,4 +1,4 @@
-BARC Theatre of War
+**Theatre of War**
 
 A virtual simulation environment designed to mimic real-world attack scenarios. This platform allows users to train, test, and evaluate agents based on Standard Operating Procedures (SOPs) in a safe, cost-effective, and fully customizable environment.
 
