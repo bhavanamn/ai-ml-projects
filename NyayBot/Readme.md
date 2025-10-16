@@ -49,18 +49,5 @@ In India, the legal service sector is largely unorganized, leading to:
 ## 🛠️ Technologies Used
 
 - **Front-end:** Streamlit  
-- **Back-end:** Flask  
-
----
-
-## ⚙️ Installation
-
-To set up NyayBot locally, please follow the installation guide provided in the `INSTALLATION.md` file.
-
----
-
-## 🚀 Usage
-
-Detailed instructions on using NyayBot can be found in the `USAGE.md` file.
-
----
+- **Back-end:** Flask
+  
