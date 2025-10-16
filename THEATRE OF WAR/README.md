@@ -35,44 +35,36 @@ This platform allows users to train, test, and evaluate agents based on **Standa
 <img width="574" height="323" alt="image (1)" src="https://github.com/user-attachments/assets/9604552e-cfd6-4d22-b7ee-41dded2f4350" />
 
 
-🎥 Training Video
+🎥 Training Video:
+Demonstrates agent learning and scenario execution.
 
 
 
 https://github.com/user-attachments/assets/8e465b5e-4b80-4c56-bc51-05a8be1bc700
 
 
-Demonstrates agent learning and scenario execution.
 
-🤖 Godot RL Agents Integration
+---
 
-This project leverages the Godot RL Agents
- library to enable intelligent agent behavior:
+## 🤖 Godot RL Agents Integration
 
-Capabilities:
+This project leverages the **Godot RL Agents library** to enable intelligent agent behavior.
 
-Connects Godot 4 games with Python-based ML algorithms
+### 🛠️ Capabilities
 
-Supports RL frameworks: StableBaselines3, Sample Factory, Ray RLLib
+- 🔗 Connects Godot 4 games with Python-based ML algorithms  
+- 🧠 Supports RL frameworks: StableBaselines3, Sample Factory, Ray RLLib  
+- 📝 Memory-based agents with LSTM or attention-based interfaces  
+- 🎮 Compatible with both 2D and 3D games  
+- 👀 Provides AI sensors for advanced environment observation  
 
-Memory-based agents with LSTM or attention-based interfaces
+### ✨ Benefits
 
-Compatible with both 2D and 3D games
+- 🏋️ Train agents in SOP-based scenarios safely  
+- 🤹 Learn complex behaviors in controlled simulations  
 
-Provides AI sensors for advanced environment observation
+### ⚡ Use Cases
 
-Benefits:
-
-Train agents in SOP-based scenarios safely
-
-Learn complex behaviors in controlled simulations
-
-
-
-⚡ Use Cases
-
-Security training in airports, public spaces, or critical infrastructure
-
-Emergency evacuation planning and response
-
-AI research in multi-agent coordination and decision-making
+- 🛫 Security training in airports, public spaces, or critical infrastructure  
+- 🚨 Emergency evacuation planning and response  
+- 🤖 AI research in multi-agent coordination and decision-making  
