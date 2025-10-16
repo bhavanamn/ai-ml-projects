@@ -4,8 +4,6 @@ A machine learning project designed to **detect hate speech** in text data using
 
 ---
 
----
-
 ## 🧠 Algorithms Used
 
 The project uses several machine learning algorithms for text classification
